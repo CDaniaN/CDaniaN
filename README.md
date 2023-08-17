@@ -1,7 +1,7 @@
 # Dania Nasereddin 💕
 ## Software Engineer, Game Developer, and Web Developer
 
-###About Me: 
+### About Me: 
 
 - 🎓 CSUF Graduate with a BS in CS 2023
 - 🕹️ Previous Project Manager for Video Game Development Club at CSUF
